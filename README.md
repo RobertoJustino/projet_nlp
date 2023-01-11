@@ -6,10 +6,10 @@
 
 #### Problématique 
 
-  
+  Analyse de sentiment sur des reviews d'utilisateurs myanimelist. Les reviews seront classées Positives, Négatives ou Neutres.
 
 #### Application métier 
 
-  
+  Permettre de connaître rapidement le sentiment globale que dégage un avis sur le site.
 
-#### [Notebook du projet / lien kaggle](https://www.kaggle.com/robertojustino/projet-nlp) - Préférez ce lien pour les visuels
+#### [Notebook du projet / lien kaggle](https://www.kaggle.com/robertojustino/projet-nlp)

@@ -12,4 +12,4 @@
 
   
 
-#### [Notebook du projet / lien kaggle](https://www.kaggle.com/code/robertojustino/notebooke5a9b6ff38) - Préférez ce lien pour les visuels
+#### [Notebook du projet / lien kaggle](https://www.kaggle.com/robertojustino/projet-nlp) - Préférez ce lien pour les visuels

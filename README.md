@@ -13,3 +13,7 @@
   Permettre de connaître rapidement le sentiment globale que dégage un avis sur le site.
 
 #### [Notebook du projet / lien kaggle](https://www.kaggle.com/robertojustino/projet-nlp)
+
+#### [Notebook du projet avec fastai/ lien kaggle](https://www.kaggle.com/robertojustino/test-avec-fastai)
+
+

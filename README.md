@@ -16,4 +16,8 @@
 
 #### [Notebook du projet avec fastai/ lien kaggle](https://www.kaggle.com/robertojustino/test-avec-fastai)
 
+#### [Application Gradio - Naive Bayes](https://huggingface.co/spaces/Roberto8/projet_nlp_myanimelist_sentiment_analysis)
+
+#### [Application Gradio - Fastai](https://huggingface.co/spaces/Roberto8/projet_nlp_sentiment_analysis_with_fastai)
+
 
